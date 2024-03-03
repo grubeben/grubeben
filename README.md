@@ -7,7 +7,7 @@ Best way to reach out to me would be at [/in/grubeben](https://www.linkedin.com/
 
 Most of my university projects are in private repos, but some are available here (_or somewhat available_ 🍳).
 
---
+---
 
 ## 🏃[HPC - Comparison of doubly-pipelined and a binary-tree-based MPI Allreduce](https://github.com/grubeben/194.077-Applied-Deep-Learning)🏃
 
@@ -17,7 +17,8 @@ asdfasdf
 
 _The A2C-agents trainings success for different agent configurations_
 
---
+---
+
 ## 🧮[HPC/GPU - Vectorized operations on an NVIDIA grpahic card](https://github.com/grubeben/194.077-Applied-Deep-Learning)🧮
 
 asdfasdf
@@ -26,7 +27,7 @@ asdfasdf
 
 _The A2C-agents trainings success for different agent configurations_
 
---
+---
 
 ## 🔒[HPC - A variety of shared-register lock implementations (omp)](https://github.com/grubeben/AMP)🔒
 
@@ -38,7 +39,7 @@ You can find the porject report [here](https://github.com/grubeben/AMP/blob/mast
 
 _structure of an n-thread tree lock and the registers necessary for it's implementation_
 
---
+---
 
 ## 🤖[Reinforcement Learning - Advantage-Actor-Critic (A2C) implementation](https://github.com/grubeben/194.077-Applied-Deep-Learning)🤖
 
