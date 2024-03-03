@@ -7,14 +7,13 @@ Best way to reach out to me would be at [/in/grubeben](https://www.linkedin.com/
 
 Most of my university projects are in private repos, but some are available here (_or somewhat available_ 🍳).
 
-##  [Applied Deep Learning Project](https://github.com/grubeben/) 📦
+##  [Applied Deep Learning Project](https://github.com/grubeben/194.077-Applied-Deep-Learning) 📦
 
 You can find the thesis here and a short video presentation [here](https://www.youtube.com/watch?v=bbEv1J6oSts).
 
-_Below follows a gif of the reward the A2AC agent receives for different openai-gym environments over xxx periods_
+_Below follows a gif of the reward the A2C-agent receives for different openai-gym environments over xxx periods_
 
-![Discrete-Action-Space-A2Cagent performance for different configurations](https://github.com/grubeben/194.077-Applied-Deep-Learning/obs-samples/rewards_over_time_a2c_discrete.PNG "Discrete-Action-Space-A2Cagent performance for different configurations")
-<img src="https://github.com/grubeben/xxx.png?raw=true" width="500">
+<img src="https://github.com/grubeben/194.077-Applied-Deep-Learning/obs-samples/rewards_over_time_a2c_discrete.PNG?raw=true" width="500">
 
 
 ## 🚕[XXXX](https://github.com/grubeben/grubeben)🚕
