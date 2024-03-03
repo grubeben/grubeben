@@ -9,7 +9,16 @@ Most of my university projects are in private repos, but some are available here
 
 --
 
-## 🏃[HPC -Comparison of doubly-pipelined and a binary-tree-based MPI Allreduce](https://github.com/grubeben/194.077-Applied-Deep-Learning)🏃
+## 🏃[HPC - Comparison of doubly-pipelined and a binary-tree-based MPI Allreduce](https://github.com/grubeben/194.077-Applied-Deep-Learning)🏃
+
+asdfasdf
+
+<img src="https://github.com/grubeben/194.077-Applied-Deep-Learning/blob/main/obs-samples/rewards_over_time_a2c_discrete.PNG?raw=true" width="500">
+
+_The A2C-agents trainings success for different agent configurations_
+
+--
+## 🧮[HPC/GPU - Vectorized operations on an NVIDIA grpahic card](https://github.com/grubeben/194.077-Applied-Deep-Learning)🧮
 
 asdfasdf
 
