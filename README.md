@@ -17,9 +17,7 @@ As part of the High-Performance-Computing seminar held by Jesper Larsson-Träff 
 
 You can find the project report [here](https://github.com/grubeben/HPC/blob/main/PROJECT_REPORT.pdf).
 
-<p align="center">
-  <img src="https://github.com/grubeben/HPC/blob/main/hpc_benchmark.PNG?raw=true" width="500">
-</p>
+<img src="https://github.com/grubeben/HPC/blob/main/hpc_benchmark.PNG?raw=true" width="500">
 
 _performance comparison of custom implementation vs. MPICH library implementation_
 
