@@ -24,13 +24,13 @@ _performance comparison of custom implementation vs. MPICH library implementatio
 
 ---
 
-## 🧮[HPC/GPU - Vectorized operations on an NVIDIA grpahic card](https://github.com/grubeben/194.077-Applied-Deep-Learning)🧮
+## 🧮[HPC/GPU - Vectorized operations on an NVIDIA grpahic card](https://github.com/grubeben/multicore_architectures)🧮
 
 asdfasdf
 
-<img src="https://github.com/grubeben/194.077-Applied-Deep-Learning/blob/main/obs-samples/rewards_over_time_a2c_discrete.PNG?raw=true" width="500">
+<img src="https://github.com/grubeben/multicore_architectures/blob/main/a7/plots/rtx.jpg?raw=true" width="500">
 
-_The A2C-agents trainings success for different agent configurations_
+_performance improvement by a *pipelined* conjugate gradient operation_
 
 ---
 
@@ -56,7 +56,9 @@ You can find a short video presentation of the porject [here](https://www.youtub
 
 _The A2C-agents trainings success for different agent configurations_
 
+## 🤖[Reinforcement Learning - Advantage-Actor-Critic (A2C) implementation]🤖
 
+In a prior internship with Bosch I implemented a ’Deep-Q’ reinforcement-learning algorithm to optimize energy-contribution from combustion- and electric engine in hybrid vehicles (code is unfortunately not publicly available). While the ’Deep-Q’ algorithm feature
 
 <!--
 **grubeben/grubeben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
