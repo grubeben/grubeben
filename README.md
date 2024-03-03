@@ -13,7 +13,7 @@ You can find the thesis here and a short video presentation [here](https://www.y
 
 _Below follows a gif of the reward the A2C-agent receives for different openai-gym environments over xxx periods_
 
-<img src="https://github.com/grubeben/194.077-Applied-Deep-Learning/obs-samples/rewards_over_time_a2c_discrete.PNG?raw=true" width="500">
+<img src="https://github.com/grubeben/194.077-Applied-Deep-Learning/blob/main/obs-samples/rewards_over_time_a2c_discrete.PNG?raw=true" width="500">
 
 
 ## 🚕[XXXX](https://github.com/grubeben/grubeben)🚕
