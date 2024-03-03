@@ -15,7 +15,7 @@ extensions to a hihgly-parallelized C-implementation of DNS (Direct Numerical Si
 
 As part of the High-Performance-Computing seminar held by Jesper Larsson-Träff at TU Wien, me and a fellow student worked on a complexity analysis and C++-implementations of the MPI_Allreduce operation based on arXiv:2109.12626. Our implementation achieved outperformance of 10-50% against the MPICH implementation on TU-Wien’s ’Hydra’ cluster which was available for the seminar.
 
-You can find the porject report [here](https://github.com/grubeben/HPC/blob/main/PROJECT_REPORT.pdf).
+You can find the project report [here](https://github.com/grubeben/HPC/blob/main/PROJECT_REPORT.pdf).
 
 <img src="https://github.com/grubeben/HPC/blob/main/hpc_benchmark.PNG?raw=true" width="500">
 
@@ -38,7 +38,7 @@ _performance improvement by a *pipelined* conjugate gradient operation_
 
 As part of the Applied Multiprocessor Programming seminar held by Jesper Larsson-Träff at TU Wien, me and a fellow student made this omp-standard based C-implementation of lock mechanisms proposed in literature (assuring singular access to register) for a finite number of threads. Performance analysis based on fairness, latency and throughput metric.
 
-You can find the porject report [here](https://github.com/grubeben/AMP/blob/master/amp_report.pdf).
+You can find a project report [here](https://github.com/grubeben/AMP/blob/master/amp_report.pdf).
 
 <img src="https://github.com/grubeben/AMP/blob/master/amp_treelock.PNG?raw=true" width="500">
 
