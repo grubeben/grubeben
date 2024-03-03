@@ -56,9 +56,6 @@ You can find a short video presentation of the porject [here](https://www.youtub
 
 _The A2C-agents trainings success for different agent configurations_
 
-## 🤖[Reinforcement Learning - Advantage-Actor-Critic (A2C) implementation]🤖
-
-In a prior internship with Bosch I implemented a ’Deep-Q’ reinforcement-learning algorithm to optimize energy-contribution from combustion- and electric engine in hybrid vehicles (code is unfortunately not publicly available). While the ’Deep-Q’ algorithm feature
 
 <!--
 **grubeben/grubeben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
