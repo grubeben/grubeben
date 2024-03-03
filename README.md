@@ -13,7 +13,7 @@ extensions to a hihgly-parallelized C-implementation of DNS (Direct Numerical Si
 ## 🏃[HPC - Comparison of doubly-pipelined and a binary-tree-based MPI_Allreduce](https://github.com/grubeben/HPC)🏃
 
 
-As part of the High-Performance-Computing seminar held by Jesper Larsson-Träff at TU Wien, me and a fellow student worked on a complexity analysis and C++-implementations of the MPI_Allreduce operation based on arXiv:2109.12626. Our implementation achieved outperformance of 10-50% against the MPICH implementation on TU-Wien’s ’Hydra’ cluster which was available for the seminar.
+As part of the High-Performance-Computing seminar held by Jesper Larsson-Träff at TU Wien, me and a fellow student worked on a complexity analysis and C++-implementations of the MPI_Allreduce operation based on [arXiv:2109.12626](https://arxiv.org/abs/2109.12626). Our implementation achieved outperformance of 10-50% against the MPICH implementation on TU-Wien’s ’Hydra’ cluster which was available for the seminar.
 
 You can find the project report [here](https://github.com/grubeben/HPC/blob/main/PROJECT_REPORT.pdf).
 
