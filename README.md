@@ -13,7 +13,8 @@ You can find the thesis here and a short video presentation [here](https://www.y
 
 _Below follows a gif of the reward the A2AC agent receives for different openai-gym environments over xxx periods_
 
-![Discrete-Action-Space-A2Cagent performance for different configurations](obs-samples/rewards_over_time_a2c_discrete.PNG "Discrete-Action-Space-A2Cagent performance for different configurations")
+![Discrete-Action-Space-A2Cagent performance for different configurations](https://github.com/grubeben/194.077-Applied-Deep-Learning/obs-samples/rewards_over_time_a2c_discrete.PNG "Discrete-Action-Space-A2Cagent performance for different configurations")
+<img src="https://github.com/grubeben/xxx.png?raw=true" width="500">
 
 
 ## 🚕[XXXX](https://github.com/grubeben/grubeben)🚕
