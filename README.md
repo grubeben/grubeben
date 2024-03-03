@@ -1,7 +1,7 @@
 # Servus or Hey there!
 
 Welcome to my Github ✨
-I am about to finish my masters degree in CSE (Computational Science and Engineering) at [TU Wien](https://www.tuwien.at/) in Vienna, Austria. My B.Sc was in Mechanical Engineering and Management, also at TU Wien - I was part of exchange programs to [ETH Zürich](https://www.ethz.ch/), [Chalmers](https://www.chalmers.se/) and a visiting researcher at the [University of California - Santa Barbara](https://www.ucsb.edu/) for my M.Sc thesis. 
+I am about to finish my masters degree in CSE (Computational Science and Engineering) at [TU Wien](https://www.tuwien.at/) in Vienna, Austria. My B.Sc was in Mechanical Engineering and Management, also at TU Wien - I was part of exchange programs to [ETH Zürich](https://www.ethz.ch/), [Chalmers](https://www.chalmers.se/) and most recently a visiting researcher at the [University of California - Santa Barbara](https://www.ucsb.edu/) for my M.Sc thesis. 
 
 Best way to reach out to me would be at [/in/grubeben](https://www.linkedin.com/in/benjamin-gruber-4817781a1/), even though I am not on the platform regularly.
 
