@@ -28,13 +28,15 @@ _The A2C-agents trainings success for different agent configurations_
 
 --
 
-## 🔒[HPC - A variety of shared-register lock implementations (omp)](https://github.com/grubeben/194.077-Applied-Deep-Learning)🔒
+## 🔒[HPC - A variety of shared-register lock implementations (omp)](https://github.com/grubeben/AMP)🔒
 
-asdfasdf
+As part of the Applied Multiprocessor Programming seminar held by Jesper Larsson-Träff at TU Wien, me and a fellow student made this omp-standard based C-implementation of lock mechanisms proposed in literature (assuring singular access to register) for a finite number of threads. Performance analysis based on fairness, latency and throughput metric.
 
-<img src="https://github.com/grubeben/194.077-Applied-Deep-Learning/blob/main/obs-samples/rewards_over_time_a2c_discrete.PNG?raw=true" width="500">
+You can find the porject report [here](https://github.com/grubeben/AMP/blob/master/amp_report.pdf).
 
-_The A2C-agents trainings success for different agent configurations_
+<img src="https://github.com/grubeben/AMP/blob/master/amp_treelock.PNG?raw=true" width="500">
+
+_structure of an n-thread tree lock and the registers necessary for it's implementation_
 
 --
 
