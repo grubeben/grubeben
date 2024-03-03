@@ -7,11 +7,13 @@ Best way to reach out to me would be at [/in/grubeben](https://www.linkedin.com/
 
 Most of my university projects are in private repos, but some are available here (_or somewhat available_ 🍳).
 
-##  [Applied Deep Learning Project](https://github.com/grubeben/194.077-Applied-Deep-Learning) 📦
+##  [Advantage-Actor-Critic(A2C) agent implementation](https://github.com/grubeben/194.077-Applied-Deep-Learning) 📦
 
-You can find the thesis here and a short video presentation [here](https://www.youtube.com/watch?v=bbEv1J6oSts).
+In a prior internship with Bosch I implemented a ’Deep-Q’ reinforcement-learning algorithm to optimize energy-contribution from combustion- and electric engine in hybrid vehicles (code is unfortunately not publicly available). While the ’Deep-Q’ algorithm features a single neural network and is purely value-based (the algorithm learns the state or state-action value), I wanted to investifate policy-based reinforcement learning (the algorithm directly learns the policy rather than the state values). As part of my Applied Deep Learning seminar project at TU Wien I implemented an Advantage-Actor-Critic(A2C) reinforcement learning agent which comprises two neural networks (the actor and the critic where the latter learns the state or state-action value and the former directly learns a policy). I tested two agent versions (discrete vs. continous parameter space) in a couple of openAI-gym environments. The latter proved to be much harder to implement and struggles to arrive at a converged policy.
 
-_Below follows a gif of the reward the A2C-agent receives for different openai-gym environments over xxx periods_
+You can find a short video presentation of the porject [here](https://www.youtube.com/watch?v=bbEv1J6oSts).
+
+_Below follows an image of the reward the A2C-agent receives for different openai-gym environments over xxx periods_
 
 <img src="https://github.com/grubeben/194.077-Applied-Deep-Learning/blob/main/obs-samples/rewards_over_time_a2c_discrete.PNG?raw=true" width="500">
 
