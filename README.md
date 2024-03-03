@@ -9,13 +9,17 @@ Most of my university projects are in private repos, but some are available here
 
 ---
 
-## 🏃[HPC - Comparison of doubly-pipelined and a binary-tree-based MPI Allreduce](https://github.com/grubeben/194.077-Applied-Deep-Learning)🏃
+## 🏃[HPC - Comparison of doubly-pipelined and a binary-tree-based MPI_Allreduce](https://github.com/grubeben/HPC)🏃
 
-asdfasdf
 
-<img src="https://github.com/grubeben/194.077-Applied-Deep-Learning/blob/main/obs-samples/rewards_over_time_a2c_discrete.PNG?raw=true" width="500">
+As part of the High-Performance-Computing seminar held by Jesper Larsson-Träff at TU Wien, me and a fellow student worked on a complexity analysis and C++-implementations of the MPI_Allreduce operation based on arXiv:2109.12626. Our implementation achieved outperformance of 10-50% against the MPICH implementation on TU-Wien’s ’Hydra’ cluster which was available for the seminar.
 
-_The A2C-agents trainings success for different agent configurations_
+You can find the porject report [here](https://github.com/grubeben/HPC/blob/main/PROJECT_REPORT.pdf).
+
+<img src="https://github.com/grubeben/HPC/blob/main/hpc_benchmark.PNG?raw=true" width="500">
+
+_performance comparison of custom implementation vs. MPICH library implementation_
+
 
 ---
 
