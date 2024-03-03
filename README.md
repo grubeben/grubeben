@@ -7,12 +7,14 @@ Best way to reach out to me would be at [/in/grubeben](https://www.linkedin.com/
 
 Most of my university projects are in private repos, but some are available here (_or somewhat available_ 🍳).
 
-## 📦 [XXXX]((https://github.com/grubeben/grubeben) 📦
-Working together with a fintech firm and three classmates we looked into the possibility of using Machine Learning to speed up their operations. The team within the firm we were working with had one main task: solving a constrained non-linear optimization problem using an evolutionary optimization algorithm called CMA-ES. However, there was one problem, deciding upon the feasibility of the solutions the algorithm suggested was computationally heavy. Our task was thus to see if Machine Learning could be used to filter out infeasible solutions. We took an explorative approach, testing a wide range of Machine Learning algorithms, supervised as well as unsupervised. Unfortunetaly, not method yielded useful results. We thinks this is mainly due to the evolutionary algorithm advancing towards the optimum in iterational steps through the large feature space (~4000 dimensions), which means that the classifiers needs to extrapolate.
+##  [Applied Deep Learning Project](https://github.com/grubeben/) 📦
 
-_Below follows a gif of how the CMA-ES moves during its first 100 iterations, projected down to 3 dimensions using PCA._
+You can find the thesis here and a short video presentation [here](https://www.youtube.com/watch?v=bbEv1J6oSts).
 
-![](https://github.com/grubeben/xxx.gif)
+_Below follows a gif of the reward the A2AC agent receives for different openai-gym environments over xxx periods_
+
+![Discrete-Action-Space-A2Cagent performance for different configurations](obs-samples/rewards_over_time_a2c_discrete.PNG "Discrete-Action-Space-A2Cagent performance for different configurations")
+
 
 ## 🚕[XXXX](https://github.com/grubeben/grubeben)🚕
 My most interesting work is in the field of **Topological Data Analysis**.
