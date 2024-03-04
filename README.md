@@ -10,6 +10,17 @@ extensions to a hihgly-parallelized C-implementation of DNS (Direct Numerical Si
 
 ---
 
+## 🧮[HPC/GPU - Optimization of operations on NVIDIA graphic cards](https://github.com/grubeben/multicore_architectures/a10)🧮
+
+In the Mulitcore-Architectur seminar of the CSE master program I worked on NVIDIA GPUs (RTX3060,K40) and got to know the CUDA, OpenCL, HIP framework. Next to implementation and performance analysis of vector-operations, warp-shuffles, memory offset/strides, latencies (PCI-express, kernel launch) and inclusive/exclusice scans, I ported a serial COVID-spreading simulator to GPU.
+
+<img src="https://github.com/grubeben/multicore_architectures/blob/main/a10/plots/mca_covid.PNG?raw=true" width="500">
+
+_results of the CUDA-ported COVID-spreading simulator_
+
+---
+
+
 ## 🏃[HPC - Comparison of doubly-pipelined and a binary-tree-based MPI_Allreduce](https://github.com/grubeben/HPC)🏃
 
 
@@ -21,16 +32,6 @@ You can find the project report [here](https://github.com/grubeben/HPC/blob/main
 
 _performance comparison of custom implementation vs. MPICH library implementation_
 
-
----
-
-## 🧮[HPC/GPU - Optimization of operations on NVIDIA graphic cards](https://github.com/grubeben/multicore_architectures/a10)🧮
-
-In the Mulitcore-Architectur seminar of the CSE master program I worked on NVIDIA GPUs (RTX3060,K40) and got to know the CUDA, OpenCL, HIP framework. Next to implementation and performance analysis of vector-operations, warp-shuffles, memory offset/strides, latencies (PCI-express, kernel launch) and inclusive/exclusice scans, I ported a serial COVID-spreading simulator to GPU.
-
-<img src="https://github.com/grubeben/multicore_architectures/blob/main/a10/plots/mca_covid.PNG?raw=true" width="500">
-
-_results of the CUDA-ported COVID-spreading simulator_
 
 ---
 
