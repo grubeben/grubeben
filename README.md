@@ -55,7 +55,7 @@ You can find a short video presentation of the porject [here](https://www.youtub
 
 <img src="https://github.com/grubeben/194.077-Applied-Deep-Learning/blob/main/obs-samples/rewards_over_time_a2c_discrete.PNG?raw=true" width="500">
 
-_The A2C-agents trainings success for different agent configurations_
+_The A2C-agents training success for different agent configurations_
 
 
 <!--
