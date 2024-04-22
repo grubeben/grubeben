@@ -6,7 +6,7 @@ I am about to finish my masters degree in CSE (Computational Science and Enginee
 Best way to reach out to me would be at [/in/grubeben](https://www.linkedin.com/in/benjamin-gruber-4817781a1/), even though I am not on the platform regularly.
 
 Most of my university/internship projects are in private repos, but some are available here (_or somewhat available_ 🍳). My M.Sc. thesis which comprised
-extensions to a hihgly-parallelized C-implementation of a Particle Resolved Direct Numerical Simulations (PR-DNS) [solver](https://arxiv.org/pdf/1804.05943.pdf) for multiphase flows and computational investigation into ’particle retardation (suspension against gravitational force) in a vertically oscillating fluid’ will be linked here once published. The code is currently not made public by Prof. Meiburg's group (UCSB).
+extensions to a highly-parallelized C-implementation of a Particle Resolved Direct Numerical Simulations (PR-DNS) [solver](https://arxiv.org/pdf/1804.05943.pdf) for multiphase flows and computational investigation into ’particle retardation (suspension against gravitational force) in a vertically oscillating fluid’ will be linked here once published. The code is currently not made public by Prof. Meiburg's group (UCSB).
 
 ---
 
