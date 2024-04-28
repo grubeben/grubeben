@@ -1,12 +1,12 @@
 # Servus or Hey there!
 
 Welcome to my Github ✨
-I am about to finish my masters degree in CSE (Computational Science and Engineering) at [TU Wien](https://www.tuwien.at/) in Vienna, Austria. My B.Sc was in Mechanical Engineering and Management, also at TU Wien - I was part of exchange programs to [ETH Zürich](https://www.ethz.ch/), [Chalmers](https://www.chalmers.se/) and most recently a visiting researcher at the [University of California - Santa Barbara](https://www.ucsb.edu/) for my M.Sc thesis. 
+I just graduated from CSE (MSc Computational Science and Engineering) at [TU Wien](https://www.tuwien.at/) in Vienna, Austria. My B.Sc was in Mechanical Engineering, also at TU Wien - I was part of exchange programs to [ETH Zürich](https://www.ethz.ch/), [Chalmers](https://www.chalmers.se/) and most recently a visiting researcher at the [University of California - Santa Barbara](https://www.ucsb.edu/) for my M.Sc thesis. 
 
 Best way to reach out to me would be at [/in/grubeben](https://www.linkedin.com/in/benjamin-gruber-4817781a1/), even though I am not on the platform regularly.
 
 Most of my university/internship projects are in private repos, but some are available here (_or somewhat available_ 🍳). My M.Sc. thesis which comprised
-extensions to a highly-parallelized C-implementation of a Particle Resolved Direct Numerical Simulations (PR-DNS) [solver](https://arxiv.org/pdf/1804.05943.pdf) for multiphase flows and computational investigation into ’particle retardation (suspension against gravitational force) in a vertically oscillating fluid’ will be linked here once published. The code is currently not made public by Prof. Meiburg's group (UCSB).
+extensions to a highly-parallelized C-implementation of a Particle Resolved Direct Numerical Simulations (PR-DNS) [solver](https://arxiv.org/pdf/1804.05943.pdf) will be linked here once available in the TU Online-Library.
 
 ---
 
